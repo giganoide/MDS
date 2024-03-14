@@ -11,8 +11,12 @@ Manifesto for Metalmeccanico Software Development
 
 10. ...in nessun caso devi tenerti aggiornato sulle tecnologie attuali
 
-Altri contentuti che ti potrebbero interessare:
+
+
+### Altri contentuti che ti potrebbero interessare:
+
 FizzBuzzEnterpriseEdition
 https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+
 eXtreme Go Horse (XGH) Process
 https://gist.github.com/banaslee/4147370
