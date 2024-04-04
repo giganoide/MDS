@@ -9,6 +9,7 @@ Manifesto for Metalmeccanico Software Development
 6. committa la brutta!
 7. se non sei di fretta non stai lavorando
 8. astrazione? No, grazie. Devi svolgere il lavoro del compilatore
+9. trova il codice il più simile possibile a quello che devi farlo e copialo
 10. ...in nessun caso devi tenerti aggiornato sulle tecnologie attuali
 
 
