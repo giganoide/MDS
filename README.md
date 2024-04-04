@@ -8,7 +8,7 @@ Manifesto for Metalmeccanico Software Development
 5. appena funziona cambia task
 6. committa la brutta!
 7. se non sei di fretta non stai lavorando
-
+8. astrazione? No, grazie. Devi svolgere il lavoro del compilatore
 10. ...in nessun caso devi tenerti aggiornato sulle tecnologie attuali
 
 
