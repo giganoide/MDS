@@ -11,7 +11,8 @@ Manifesto for Metalmeccanico Software Development
 8. astrazione? No, grazie. Devi svolgere il lavoro del compilatore
 9. trova il codice il più simile possibile a quello che devi fare e copialo
 10. Calderone driven design
-11. ...in nessun caso devi tenerti aggiornato sulle tecnologie attuali
+11. Non ti servono strutture dati, bastano string.split e string.join
+12. ...in nessun caso devi tenerti aggiornato sulle tecnologie attuali
 
 
 
